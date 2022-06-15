@@ -22,7 +22,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/warisgithub04/G-Drive-Waris)
+[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cheemsmirrorx/Cheems-drive-clone)
 
 ### How To Deploy:
 
